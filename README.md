@@ -1,4 +1,4 @@
-# OpenCV Sample Collection
+# OpenCV
 
 ## Pre-requests
 
