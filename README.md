@@ -18,3 +18,9 @@ Install Numpy by
 pip install numpy
 ```
 
+
+## Samples
+
+### detect_face.py
+
+for face detection using a built-in camera
